@@ -2,7 +2,7 @@
 import json
 import random
 import time
-# import space
+import space
 from web3 import Web3
 
 from fake_useragent import UserAgent
